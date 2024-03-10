@@ -1,27 +1,27 @@
 # Profiling Exercise
 
 `/all_students`
-![ss-all-students.png](./ss-all-students.png)
+![ss-all-students.png](src/main/resources/Screenshot/ss-all-students.png)
 `/all_students_name`
-![ss-all-students-cmd.png](./ss-all-students-cmd.png)
+![ss-all-students-cmd.png](src/main/resources/Screenshot/ss-all-students-cmd.png)
 `/highest_gpa`
 
 `all-student-name`
-![ss-all-students-name.png](./ss-all-students-name.png)
-![ss-all-students-name-cmd.png](./ss-all-students-name-cmd.png)
+![ss-all-students-name.png](src/main/resources/Screenshot/ss-all-students-name.png)
+![ss-all-students-name-cmd.png](src/main/resources/Screenshot/ss-all-students-name-cmd.png)
 
 `highes-gpa`
-![ss-highest-gpa.png](./ss-highest-gpa.png)
-![ss-highest-gpa-cmd.png](./ss-highest-gpa-cmd.png)
+![ss-highest-gpa.png](src/main/resources/Screenshot/ss-highest-gpa.png)
+![ss-highest-gpa-cmd.png](src/main/resources/Screenshot/ss-highest-gpa-cmd.png)
 
 # Optimiztion Result
 
 `all-student`
-![ss-all-students-cmd-optimize.png](./ss-all-students-cmd-optimize.png)
+![ss-all-students-cmd-optimize.png](src/main/resources/Screenshot/ss-all-students-cmd-optimize.png)
 `all-student-name`
-![ss-all-students-name-cmd-optimize.png](./ss-all-students-name-cmd-optimize.png)
+![ss-all-students-name-cmd-optimize.png](src/main/resources/Screenshot/ss-all-students-name-cmd-optimize.png)
 `highest-gpa`
-![ss-highest-gpa-cmd-optimize.png](./ss-highest-gpa-cmd-optimize.png)
+![ss-highest-gpa-cmd-optimize.png](src/main/resources/Screenshot/ss-highest-gpa-cmd-optimize.png)
 
 ## Conclusion
 
