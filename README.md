@@ -2,9 +2,7 @@
 
 `/all_students`
 ![ss-all-students.png](src/main/resources/Screenshot/ss-all-students.png)
-`/all_students_name`
 ![ss-all-students-cmd.png](src/main/resources/Screenshot/ss-all-students-cmd.png)
-`/highest_gpa`
 
 `all-student-name`
 ![ss-all-students-name.png](src/main/resources/Screenshot/ss-all-students-name.png)
